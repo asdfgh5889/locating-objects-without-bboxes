@@ -5,8 +5,8 @@ ipython_genutils==0.2.0
 matplotlib==2.2.2
 opencv-python==3.4.11.39
 parse==1.8.2
-scikit-image==0.13.1
-scikit-learn==0.19.1
+scikit-image==0.18.1
+scikit-learn==0.24.2
 scipy==1.0.1
 setuptools==39.1.0
 tqdm==4.23.1
