@@ -14,7 +14,7 @@ dependencies:
     - pandas=0.22.0
     - parse=1.8.2
     - pip=9.0.3
-    - python=3.6.5
+    - python=3.6.6
     - python-dateutil=2.7.2
     - scikit-image=0.13.1
     - scikit-learn=0.19.1
