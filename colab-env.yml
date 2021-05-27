@@ -4,6 +4,7 @@ channels:
     - conda-forge
     - defaults
 dependencies:
+    - python=3.6.6
     - pip:
         - ballpark==1.4.0
         - visdom==0.1.8.5
