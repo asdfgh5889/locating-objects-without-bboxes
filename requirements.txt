@@ -1,3 +1,4 @@
+xmltodict
 ballpark
 visdom
 git+https://github.com/asdfgh5889/peterpy.git
