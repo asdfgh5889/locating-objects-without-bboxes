@@ -1,4 +1,3 @@
-pandas==0.22.0
 xmltodict
 ballpark
 visdom
