@@ -1,0 +1,11 @@
+name: object-locator
+channels:
+    - pytorch
+    - conda-forge
+    - defaults
+dependencies:
+    - pip:
+        - ballpark==1.4.0
+        - visdom==0.1.8.5
+        - peterpy
+        - torchvision==0.2.1
