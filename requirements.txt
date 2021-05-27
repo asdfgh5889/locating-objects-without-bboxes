@@ -4,7 +4,7 @@ ipython==6.3.1
 ipython_genutils==0.2.0
 matplotlib==2.2.2
 numpy==1.14.3
-opencv==3.4.1
+opencv
 pandas==0.22.0
 parse==1.8.2
 pip==9.0.3
